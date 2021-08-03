@@ -12,7 +12,7 @@ This tool is developed in a Ubuntu 12.04 system & tested in later versions of Ub
 
 - Make sure you have "build-essential" & "git" packages installed. You can install these using following command
 ```bash
-sudo apt-get install build-essentials git
+sudo apt-get install build-essential git
 ```
 - Clone this repository somewhere in your hard drive
 ```bash
